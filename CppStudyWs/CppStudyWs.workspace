@@ -2,16 +2,19 @@
 <CodeLite_Workspace Name="CppStudyWs" Database="" Version="10000">
   <Project Name="CppStudyProj2" Path="CppStudyProj2/CppStudyProj2.project" Active="Yes"/>
   <Project Name="CppStudyProj1" Path="CppStudyProj1/CppStudyProj1.project" Active="No"/>
+  <Project Name="TestProject" Path="TestProject/TestProject.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="CppStudyProj2" ConfigName="Debug"/>
       <Project Name="CppStudyProj1" ConfigName="Debug"/>
+      <Project Name="TestProject" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="CppStudyProj2" ConfigName="Release"/>
       <Project Name="CppStudyProj1" ConfigName="Release"/>
+      <Project Name="TestProject" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
