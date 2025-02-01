@@ -1,0 +1,1 @@
+../build-Debug/CppStudyProj2/main.cpp.o   
