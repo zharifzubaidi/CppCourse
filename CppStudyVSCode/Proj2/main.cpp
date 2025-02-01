@@ -8,6 +8,6 @@ int main() {
     cout << "Enter your favourite number: ";
     cin >> num;
     cout << "Your favourite number is " << num << endl;
-
+    
     return 0;
 } 
