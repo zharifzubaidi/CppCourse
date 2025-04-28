@@ -7,3 +7,4 @@ Dr Frank Mitropoulos from Nova Southeastern University, USA.
 - Need to delete executable file everytime before rebuild due to security reason
 - Use Ctrl + Shift + B to build C++ program in VScode. However, need to ensure the settings in .vscode folder is correct
 - To run the exe file, write .\main.exe in the terminal after navigating to the directory containing the exe file
+- Migrated to Linux VM
