@@ -16,7 +16,7 @@ int main(){
     const int max {100};
 
     // Input
-    cout << "Enter a number between " << min << " and " << max << ";";
+    cout << "Enter a number between " << min << " and " << max << ": ";
     cin >> num;
 
     // Processing
